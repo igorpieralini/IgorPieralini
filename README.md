@@ -3,7 +3,15 @@
 - Estou estudando Java
 - Contate-me: (igorpieralini@gmail.com)
 
-<div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=IgorPieralini&show_icons=true&theme=radical&hide=contribs&include_all_commits=true"/>
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPieralini&theme=radical&langs_count&layout=compact"/>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=igorPieralini&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dracula)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=igorPieralini&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=igorPieralini&show_icons=true&theme=dracula" />
+</picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorPieralini&theme=dracula&&langs_count=8">
