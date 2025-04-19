@@ -15,7 +15,7 @@
 
 <br>
 <div aling="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=igorPieralini&show_icons=true&theme=dracula&layout=compact" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorPieralini&theme=dracula&langs_count=1209&layout=compact" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=igorPieralini&show_icons=true&theme=dracula&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorPieralini&theme=dracula&langs_count=8&layout=compact" height="200">
 </div>
 
