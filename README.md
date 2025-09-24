@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Igor Pieralini  
+#  Hey, I'm Igor Pieralini  
 
 ## 👨‍💻 About Me  
 - 🎓 Currently studying at **Centro Universitário FEI**  
