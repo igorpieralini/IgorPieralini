@@ -4,7 +4,7 @@
 - 🎓 Currently studying at **Centro Universitário FEI**  
 - 💡 Passionate about **fullstack development**  
 - 🛠 Experience with **C, C#, Java, PHP, SQL**  
-- 🌍 Always learning, experimenting, and breaking things (to fix them later 😅)  
+- 🌍 Always learning, experimenting, and breaking things
 
 ---
 
