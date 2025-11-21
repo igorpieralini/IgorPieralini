@@ -29,14 +29,12 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=igorpieralini&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpieralini&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">  
+  <img src="https://github-readme-stats.vercel.app/api?username=igorpieralini&show_icons=true&theme=tokyonight&cache_seconds=3600" alt="GitHub Stats"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpieralini&layout=compact&theme=tokyonight&count=10&cache_seconds=3600"/>  
+</div>  
 
 ## 🌐 Connect with Me  
 
