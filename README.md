@@ -1,7 +1,7 @@
 # Hello, I'm Igor Pieralini
 
 Developer focused on **clean architecture, backend, automation and scalable systems**.  
-I love building APIs, automating processes and turning ideas into real solutions.
+I like building APIs, automating processes and turning ideas into real solutions.
 
 ---
 
