@@ -8,11 +8,13 @@
 
 <br/><br/>
 
-<a href="#"><img src="https://img.shields.io/badge/Backend_%26_Architecture-000000?style=for-the-badge&logo=windowsterminal&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Clean_%26_Modular-000000?style=for-the-badge&logo=target&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Scalable_Systems-000000?style=for-the-badge&logo=rocket&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Backend_%26_Architecture-000000?style=for-the-badge&logo=windowsterminal&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Clean_%26_Modular-000000?style=for-the-badge&logo=target&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Scalable_Systems-000000?style=for-the-badge&logo=rocket&logoColor=white"/></a>
 
 <br/><br/>
 
-<samp>Backend Engineer • Brazil • Building things that scale</samp>
+<samp>Backend Engineer &bull; Brazil &bull; Building things that scale</samp>
 
 </div>
 
@@ -39,7 +41,6 @@
 <sub>Python scripts that think</sub>
 <br/><br/>
 </td>
-
 <td align="center" width="200">
 <br/>
 <img width="36" src="https://cdn.simpleicons.org/fastapi/white"/>
@@ -49,7 +50,6 @@
 <sub>Speed at every layer</sub>
 <br/><br/>
 </td>
-
 <td align="center" width="200">
 <br/>
 <img width="36" src="https://cdn.simpleicons.org/kubernetes/white"/>
@@ -59,7 +59,6 @@
 <sub>AWS / GCP / Azure</sub>
 <br/><br/>
 </td>
-
 <td align="center" width="200">
 <br/>
 <img width="36" src="https://cdn.simpleicons.org/git/white"/>
@@ -98,7 +97,6 @@
 <td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=py" width="40"/><br/><samp>Python</samp><br/><br/></td>
 <td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=ts" width="40"/><br/><samp>TypeScript</samp><br/><br/></td>
 </tr>
-
 <tr>
 <td align="center"><br/><img src="https://skillicons.dev/icons?i=spring" width="40"/><br/><samp>Spring</samp><br/><br/></td>
 <td align="center"><br/><img src="https://skillicons.dev/icons?i=nestjs" width="40"/><br/><samp>NestJS</samp><br/><br/></td>
@@ -108,7 +106,6 @@
 <td align="center"><br/><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/><samp>MySQL</samp><br/><br/></td>
 <td align="center"><br/><img src="https://skillicons.dev/icons?i=redis" width="40"/><br/><samp>Redis</samp><br/><br/></td>
 </tr>
-
 <tr>
 <td align="center"><br/><img src="https://skillicons.dev/icons?i=aws" width="40"/><br/><samp>AWS</samp><br/><br/></td>
 <td align="center"><br/><img src="https://skillicons.dev/icons?i=azure" width="40"/><br/><samp>Azure</samp><br/><br/></td>
@@ -132,19 +129,10 @@
 
 <br/>
 
-<a href="https://github.com/igorpieralini">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=igorpieralini&show_icons=true&count_private=true&hide_border=true&theme=dark"/>
-</a>
-
- 
-
-<a href="https://github.com/igorpieralini">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpieralini&layout=compact&hide_border=true&theme=dark&langs_count=8"/>
-</a>
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=igorpieralini&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=888888&sideLabels=888888&dates=555555"/>
 
 <br/><br/>
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=igorpieralini&bg_color=00000000&color=888888&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Contribution%20Graph"/>
 
 </div>
 
@@ -156,7 +144,7 @@
 
 <div align="center">
 
-```text
+```
 "First, solve the problem. Then, write the code."
 ```
 
