@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Igor%20Pieralini&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Systems%20Architect&descSize=16&descColor=888888&descAlignY=55" width="100%"/>
@@ -34,11 +35,11 @@
 <tr>
 <td align="center" width="200">
 <br/>
-<img width="36" src="https://cdn.simpleicons.org/python/white"/>
+<img width="36" src="https://cdn.simpleicons.org/bookstack/white"/>
 <br/><br/>
-<samp><b>Automation with AI</b></samp>
+<samp><b>SOLID Principles</b></samp>
 <br/>
-<sub>Python scripts that think</sub>
+<sub>Clean and maintainable code</sub>
 <br/><br/>
 </td>
 <td align="center" width="200">
@@ -52,11 +53,11 @@
 </td>
 <td align="center" width="200">
 <br/>
-<img width="36" src="https://cdn.simpleicons.org/kubernetes/white"/>
+<img width="36" src="https://cdn.simpleicons.org/icloud/white"/>
 <br/><br/>
 <samp><b>Cloud Native</b></samp>
 <br/>
-<sub>AWS / GCP / Azure</sub>
+<sub>AWS-focused solutions</sub>
 <br/><br/>
 </td>
 <td align="center" width="200">
@@ -89,31 +90,22 @@
 
 <table align="center">
 <tr>
-<td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=c" width="40"/><br/><samp>C</samp><br/><br/></td>
 <td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=cs" width="40"/><br/><samp>C#</samp><br/><br/></td>
 <td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=java" width="40"/><br/><samp>Java</samp><br/><br/></td>
 <td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=php" width="40"/><br/><samp>PHP</samp><br/><br/></td>
 <td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/><samp>Node.js</samp><br/><br/></td>
 <td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=py" width="40"/><br/><samp>Python</samp><br/><br/></td>
 <td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=ts" width="40"/><br/><samp>TypeScript</samp><br/><br/></td>
+<td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=nestjs" width="40"/><br/><samp>NestJS</samp><br/><br/></td>
 </tr>
 <tr>
-<td align="center"><br/><img src="https://skillicons.dev/icons?i=spring" width="40"/><br/><samp>Spring</samp><br/><br/></td>
-<td align="center"><br/><img src="https://skillicons.dev/icons?i=nestjs" width="40"/><br/><samp>NestJS</samp><br/><br/></td>
-<td align="center"><br/><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/><samp>FastAPI</samp><br/><br/></td>
-<td align="center"><br/><img src="https://skillicons.dev/icons?i=dotnet" width="40"/><br/><samp>.NET</samp><br/><br/></td>
-<td align="center"><br/><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/><samp>Postgres</samp><br/><br/></td>
-<td align="center"><br/><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/><samp>MySQL</samp><br/><br/></td>
-<td align="center"><br/><img src="https://skillicons.dev/icons?i=redis" width="40"/><br/><samp>Redis</samp><br/><br/></td>
-</tr>
-<tr>
-<td align="center"><br/><img src="https://skillicons.dev/icons?i=aws" width="40"/><br/><samp>AWS</samp><br/><br/></td>
-<td align="center"><br/><img src="https://skillicons.dev/icons?i=azure" width="40"/><br/><samp>Azure</samp><br/><br/></td>
-<td align="center"><br/><img src="https://skillicons.dev/icons?i=gcp" width="40"/><br/><samp>GCP</samp><br/><br/></td>
-<td align="center"><br/><img src="https://skillicons.dev/icons?i=docker" width="40"/><br/><samp>Docker</samp><br/><br/></td>
-<td align="center"><br/><img src="https://skillicons.dev/icons?i=kubernetes" width="40"/><br/><samp>K8s</samp><br/><br/></td>
-<td align="center"><br/><img src="https://skillicons.dev/icons?i=git" width="40"/><br/><samp>Git</samp><br/><br/></td>
-<td align="center"><br/><img src="https://skillicons.dev/icons?i=linux" width="40"/><br/><samp>Linux</samp><br/><br/></td>
+<td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/><samp>FastAPI</samp><br/><br/></td>
+<td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=dotnet" width="40"/><br/><samp>.NET</samp><br/><br/></td>
+<td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/><samp>Postgres</samp><br/><br/></td>
+<td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/><samp>MySQL</samp><br/><br/></td>
+<td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=aws" width="40"/><br/><samp>AWS</samp><br/><br/></td>
+<td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=git" width="40"/><br/><samp>Git</samp><br/><br/></td>
+<td align="center" width="140"><br/><img src="https://skillicons.dev/icons?i=linux" width="40"/><br/><samp>Linux</samp><br/><br/></td>
 </tr>
 </table>
 
@@ -133,7 +125,6 @@
 
 <br/><br/>
 
-
 </div>
 
 <br/>
@@ -144,9 +135,7 @@
 
 <div align="center">
 
-```
-"First, solve the problem. Then, write the code."
-```
+    "First, solve the problem. Then, write the code."
 
 <br/>
 
